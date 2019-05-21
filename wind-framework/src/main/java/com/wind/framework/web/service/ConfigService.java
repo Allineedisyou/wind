@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import com.wind.system.service.ISysConfigService;
 
 /**
- * RuoYi首创 html调用 thymeleaf 实现参数管理
+ * wind首创 html调用 thymeleaf 实现参数管理
  * 
  * @author wind
  */
