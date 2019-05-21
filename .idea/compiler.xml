@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wind-admin" />
+        <module name="wind-common" />
+        <module name="wind-framework" />
+        <module name="wind-generator" />
+        <module name="wind-quartz" />
+        <module name="wind-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wind" target="1.8" />
+      <module name="wind-admin" target="1.8" />
+      <module name="wind-common" target="1.8" />
+      <module name="wind-framework" target="1.8" />
+      <module name="wind-generator" target="1.8" />
+      <module name="wind-quartz" target="1.8" />
+      <module name="wind-system" target="1.8" />
+      <module name="wind123" target="1.8" />
+      <module name="windi-framework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

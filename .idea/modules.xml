@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wind.iml" filepath="$PROJECT_DIR$/wind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-admin/wind-admin.iml" filepath="$PROJECT_DIR$/wind-admin/wind-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-admin/wind-admin.iml" filepath="$PROJECT_DIR$/wind-admin/wind-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-common/wind-common.iml" filepath="$PROJECT_DIR$/wind-common/wind-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-common/wind-common.iml" filepath="$PROJECT_DIR$/wind-common/wind-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-framework/wind-framework.iml" filepath="$PROJECT_DIR$/wind-framework/wind-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-framework/wind-framework.iml" filepath="$PROJECT_DIR$/wind-framework/wind-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-generator/wind-generator.iml" filepath="$PROJECT_DIR$/wind-generator/wind-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-generator/wind-generator.iml" filepath="$PROJECT_DIR$/wind-generator/wind-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-quartz/wind-quartz.iml" filepath="$PROJECT_DIR$/wind-quartz/wind-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-quartz/wind-quartz.iml" filepath="$PROJECT_DIR$/wind-quartz/wind-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-system/wind-system.iml" filepath="$PROJECT_DIR$/wind-system/wind-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind-system/wind-system.iml" filepath="$PROJECT_DIR$/wind-system/wind-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wind123.iml" filepath="$PROJECT_DIR$/wind123.iml" />
+    </modules>
+  </component>
+</project>
